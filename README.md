@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Game
-
+## made by Hardik Thapar
 ## Description
 This is a simple **Tic-Tac-Toe** game built using HTML, CSS, and JavaScript. It's a classic two-player game where players take turns marking a 3x3 grid with their respective symbols (X or O). The goal is to get three of your symbols in a row, column, or diagonal.
 
