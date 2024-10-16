@@ -17,4 +17,4 @@ This is a simple **Tic-Tac-Toe** game built using HTML, CSS, and JavaScript. It'
 ## How to Play
 1. Clone or download this repository.
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/hardik-thapar/Tic-Tac-Toe.git
