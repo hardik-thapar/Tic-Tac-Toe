@@ -9,9 +9,6 @@ This is a simple **Tic-Tac-Toe** game built using HTML, CSS, and JavaScript. It'
 - **Win detection**: The game detects when a player wins or when there's a draw.
 - **Restart button**: Players can restart the game to play again.
 
-## Screenshots
-![Tic-Tac-Toe Screenshot](./screenshot.png)
-
 ## Technologies Used
 - **HTML**: For structuring the game layout.
 - **CSS**: For styling the game board and making it visually appealing.
